@@ -1,0 +1,6 @@
+
+baseURL = "https://delia-03.github.io/"
+languageCode = "en-us"
+title = "Delia's Website"
+theme = "gohugo-theme-ananke"
+
